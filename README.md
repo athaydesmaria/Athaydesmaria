@@ -11,14 +11,12 @@
 ### 👩‍💻 Sobre Mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
-- 💡 Sólida base em **Lógica de Programação** e algoritmos desenvolvida com **VisualG**.
+- 💡 Sólida base em **Lógica de Programação**.
 - 🐍 Foco em desenvolvimento com **Python**, utilizando o **PyCharm** como IDE principal.
 - 🎯 Buscando minha primeira oportunidade no mercado de tecnologia (Estágio / Júnior).
 - 📚 Atualmente aprofundando estudos em:
-  - Orientação a Objetos (POO) em Python
-  - Estrutura de Dados & Algoritmos
+  - Estrutura de Algoritmos
   - Versionamento com Git e GitHub
-  - Banco de Dados (SQL)
 
 ---
 
