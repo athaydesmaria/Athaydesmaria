@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 
 ---
-
+<!--
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -42,7 +42,7 @@
 </p>
 
 ---
-
+-->
 ### 📬 Vamos nos conectar?
 
 <p align="left">
