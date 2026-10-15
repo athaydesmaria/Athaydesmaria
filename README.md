@@ -1,3 +1,6 @@
+Aqui está o seu README atualizado com o **VS Code** (tanto na descrição quanto na seção de badges/ferramentas) e a nova seção de **Idiomas**:
+
+```markdown
 # Olá! Eu sou Maria Eduarda Athaydes Ribas 👋
 
 <p align="left">
@@ -8,11 +11,11 @@
 
 ---
 
-### 👩‍💻 Sobre Mim
+### 👩💻 Sobre Mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
 - 💡 Sólida base em **Lógica de Programação**.
-- 🐍 Foco em desenvolvimento com **Python**, utilizando o **PyCharm** como IDE principal.
+- 🐍 Foco em desenvolvimento com **Python**, utilizando **PyCharm** e **VS Code**.
 - 🎯 Buscando minha primeira oportunidade no mercado de tecnologia (Estágio / Júnior).
 - 📚 Atualmente aprofundando estudos em:
   - Estrutura de Algoritmos
@@ -31,6 +34,15 @@
 #### IDEs & Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+### 🌐 Idiomas
+
+- 🇧🇷 **Português:** Nativo
+- 🇺🇸 **Inglês:** Intermediário
 
 ---
 <!--
@@ -53,3 +65,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
+```
+
+   - Criada a seção **`### 🌐 Idiomas`** com flags e níveis para Português (Nativo) e Inglês (Intermediário).
